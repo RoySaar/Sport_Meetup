@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SportMeetup</string>
+    <string name="auth_failed">Authentication failed!</string>
+    <string name="email_not_valid_message">The email address is invalid</string>
+    <string name="password_too_short_message">Password needs to be at least 8 characters long</string>
+    <string name="either_is_null_message">Please fill in both email and password</string>
+</resources>
